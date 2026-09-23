@@ -1,14 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb21e8ae-b99d-43f7-b77a-1f47eae2c84a" name="Changes" comment="" />
+    <list default="true" id="fb21e8ae-b99d-43f7-b77a-1f47eae2c84a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/x_o_game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x_o_game.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="3.140258473564282E-67" />
+      <entry key="S2" value="3.187469451093616E-17" />
+      <entry key="S5" value="3.9055077721668307E-7" />
+      <entry key="S10" value="0.001127197919289111" />
+      <entry key="S30" value="0.35289029930575994" />
+      <entry key="S60" value="2.079451083796698" />
+      <entry key="M2" value="6.835640684321998" />
+      <entry key="M5" value="19.17887923544337" />
+      <entry key="M10" value="34.591777005547314" />
+      <entry key="M15" value="45.90437034602771" />
+      <entry key="M30" value="65.57251021342556" />
+      <entry key="H1" value="82.45620322577409" />
+      <entry key="H2" value="95.67675825477178" />
+      <entry key="H4" value="104.87016561406507" />
+      <entry key="D1" value="126.45007972474336" />
+      <entry key="W1" value="159.3972508889959" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.000000003633834" />
+      <entry key="S10" value="1.0000804325679138" />
+      <entry key="S30" value="1.0709717609134328" />
+      <entry key="S60" value="1.4659166109734756" />
+      <entry key="M2" value="2.4806430465720624" />
+      <entry key="M5" value="4.973658119031896" />
+      <entry key="M10" value="9.056869826343693" />
+      <entry key="M15" value="12.820591159943607" />
+      <entry key="M30" value="20.147483826349607" />
+      <entry key="H1" value="26.363121793308927" />
+      <entry key="H2" value="30.58053813870916" />
+      <entry key="H4" value="33.10310876752712" />
+      <entry key="D1" value="36.152594853032205" />
+      <entry key="W1" value="38.34544923152035" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.0015323908162045907" />
+      <entry key="MS500" value="0.27357342531518486" />
+      <entry key="S2" value="0.7232167516701093" />
+      <entry key="S5" value="0.8784307804122073" />
+      <entry key="S10" value="0.9383423022316209" />
+      <entry key="S30" value="1.391903982133065" />
+      <entry key="S60" value="3.5024960317142133" />
+      <entry key="M2" value="9.256123699773623" />
+      <entry key="M5" value="24.086165309214493" />
+      <entry key="M10" value="43.58587246822788" />
+      <entry key="M15" value="58.6677947856351" />
+      <entry key="M30" value="85.67778905216741" />
+      <entry key="H1" value="108.79236669395323" />
+      <entry key="H2" value="126.24156282006894" />
+      <entry key="H4" value="137.96463685286759" />
+      <entry key="D1" value="162.6009984864229" />
+      <entry key="W1" value="197.74241890027045" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0,
@@ -22,12 +98,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.x_o_game.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
