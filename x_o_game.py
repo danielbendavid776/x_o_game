@@ -1,10 +1,6 @@
 
 def init_board():
-    return [
-        [" ", " ", " "],
-        [" ", " ", " "],
-        [" ", " ", " "],
-    ]
+    return [ [" ", " ", " "], [" ", " ", " "],    [" ", " ", " "], ]
 
 def print_board(board):
     for row in board:
